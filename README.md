@@ -10,3 +10,6 @@ https://medium.com/@budasuyasa/saya-belajar-vim-selama-1-5-bulan-dan-belum-bisa-
 https://www.youtube.com/watch?v=QB9V__3VO2s
 
 https://www.keybr.com/
+
+
+https://www.seredata.com/2019/11/setting-vim-sebagai-ide-developer.html
