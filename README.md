@@ -16,5 +16,7 @@
 
   - https://www.seredata.com/2019/11/setting-vim-sebagai-ide-developer.html
   
+  - https://www.youtube.com/watch?v=DogKdiRx7ls
+  
 - **Config**
   - https://github.com/sauravj7/nvim_config
