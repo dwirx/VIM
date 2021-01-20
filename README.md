@@ -21,3 +21,15 @@
 - **Config**
   - https://github.com/sauravj7/nvim_config
   - https://github.com/geohot/configuration/blob/master/.vimrc
+  
+  
+  ### Setting Vim windows 
+  - Membuat file baru
+    - :w C:\User\all\_vimrc
+  - Membuka File
+    - :e C:\User\all\
+  - Cara Copy paste lansung banyak
+    - Y2p
+  - Cara Split 
+    -split
+    -vsplit
