@@ -23,7 +23,9 @@
   - https://github.com/geohot/configuration/blob/master/.vimrc
   
   
-  ### Setting Vim windows 
+  ### Setting Vim windows
+  - Meperbarui Pengaturan
+    - source %
   - Membuat file baru
     - :w C:\User\all\_vimrc
   - Membuka File
@@ -35,3 +37,5 @@
     -vsplit
   - Setting Surround
     - cs ( [
+  - Emmet vim
+    - C-Y ,
