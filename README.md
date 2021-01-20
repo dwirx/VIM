@@ -26,6 +26,8 @@
   ### Setting Vim windows
   - Meperbarui Pengaturan
     - source %
+  - Cara pindah ke file lain
+    - ,,
   - Membuat file baru
     - :w C:\User\all\_vimrc
   - Membuka File
