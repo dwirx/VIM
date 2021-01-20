@@ -1,4 +1,4 @@
-# VIM
+# **VIM**
 
 - Link List
 
@@ -15,3 +15,6 @@
   - https://www.keybr.com/
 
   - https://www.seredata.com/2019/11/setting-vim-sebagai-ide-developer.html
+  
+- **Config**
+  - https://github.com/sauravj7/nvim_config
