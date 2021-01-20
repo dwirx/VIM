@@ -20,3 +20,4 @@
   
 - **Config**
   - https://github.com/sauravj7/nvim_config
+  - https://github.com/geohot/configuration/blob/master/.vimrc
