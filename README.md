@@ -1,6 +1,6 @@
 # **VIM**
 
-- Link List
+- **Link List**
 
   - https://www.youtube.com/watch?v=QB9V__3VO2s
 
