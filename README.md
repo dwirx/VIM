@@ -18,6 +18,8 @@
   
   - https://www.youtube.com/watch?v=DogKdiRx7ls
   
+  - https://www.youtube.com/watch?v=GYw6l30vybY
+  
 - **Config**
   - https://github.com/sauravj7/nvim_config
   - https://github.com/geohot/configuration/blob/master/.vimrc
