@@ -84,6 +84,7 @@ Plug 'aaren/arrowkeyrepurpose'
 Plug 'EinfachToll/DidyouMean'
 Plug 'preservim/nerdtree'
 Plug 'dense-analysis/ale'
+Plug 'tpope/vim-commentary'
 
 call plug#end()
 
@@ -102,3 +103,11 @@ call plug#end()
 
 "Setting save sudo
 comman! -nargs=0 Sw w !sudo tee % > /dev/null
+
+"Run Python
+autocmd FileType python map <buffer> <F9> :w<CR>:exec '!python3' shellescape(@%, 1)<CR>
+autocmd FileType python imap <buffer> <F9> <esc>:w<CR>:exec '!python3' shellescape(@%, 1)<CR>
+
+" Commetatar
+noremap <leader>/ :Commentary<CR
+
