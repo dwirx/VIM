@@ -72,4 +72,6 @@ Add this to your .vimrc file: noremap <leader>/ :Commentary<cr>
 You can now toggle comments by pressing Leader+/, just like Sublime and Atom.
 
 |referensi|
+|---------|
 |[Become a Html Ninja with Emmet for Vim](https://medium.com/vim-drops/be-a-html-ninja-with-emmet-for-vim-feee15447ef1)|
+|[How To Use VIM for Frontend Development: 2020 Edition](https://hackernoon.com/how-to-use-vim-for-frontend-development-2020-edition-dac83yyh)
