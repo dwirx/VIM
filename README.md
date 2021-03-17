@@ -75,3 +75,4 @@ You can now toggle comments by pressing Leader+/, just like Sublime and Atom.
 |---------|
 |[Become a Html Ninja with Emmet for Vim](https://medium.com/vim-drops/be-a-html-ninja-with-emmet-for-vim-feee15447ef1)|
 |[How To Use VIM for Frontend Development: 2020 Edition](https://hackernoon.com/how-to-use-vim-for-frontend-development-2020-edition-dac83yyh)
+|[Vim setup for Web Development: Php, WordPress, JavaScript, JXS, (S)CSS, Python and Flutter.](https://marioyepes.com/vim-setup-for-modern-web-development/)
