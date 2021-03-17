@@ -2,6 +2,8 @@
 
 - **Link List**
 
+  - https://nusendra.com/post/migrasi-ke-vim/
+  
   - https://www.youtube.com/watch?v=QB9V__3VO2s
 
   - https://www.chrisatmachine.com/Neovim/01-vim-plug/
