@@ -36,5 +36,8 @@
   8.edit terminal settings example https://github.com/codingphasedotcom/CodingPhaseThemes/tree/master
   
   ```
+  
+  [nvbn/thefuck: Magnificent app which corrects your previous console command. (github.com)](https://github.com/nvbn/thefuck)
+  
 
   
