@@ -10,7 +10,7 @@
   
   2. sudo apt install zsh -y
   
-  3. h -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  3. sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
   
   4.git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1
   
@@ -31,7 +31,7 @@
   SPACESHIP_USER_SHOW="true"
   
   export LS_COLORS="di=34;40:ln=36;40:so=35;40:pi=33;40:ex=32;40:bd=1;33;40:cd=1;33;40:su=0;41:sg=0;43:tw=0;42:ow=34;40:"
-  zstyle ':completion:*:default' list-colors ${(s.:.)LS_COLORS
+  zstyle ':completion:*:default' list-colors ${(s.:.)LS_COLORS}
   
   8.edit terminal settings example https://github.com/codingphasedotcom/CodingPhaseThemes/tree/master
   
