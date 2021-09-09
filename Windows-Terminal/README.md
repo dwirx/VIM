@@ -19,6 +19,8 @@
   6.install mononoki fonts from nerdfonts https://www.nerdfonts.com/font-downloads
   
   7.code ~/.zshrc
+
+  ZSH_THEME="spaceship"
   
   #Put​ this on the bottom of file
   SPACESHIP_PROMPT_ADD_NEWLINE="true" 
